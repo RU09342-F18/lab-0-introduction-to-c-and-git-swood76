@@ -10,7 +10,7 @@ int math(int num1, int num2, char Operator)
     scanf("%c", &Operator);
 
 
-    // condition to verify the user's input from above
+    // condition statement(s) which will run or jump based off user's input from above; ex) user inputs '+' first statement is run, rest ignored
     if(Operator == '+')
     {
         printf("Enter two numbers to be summed\n");
