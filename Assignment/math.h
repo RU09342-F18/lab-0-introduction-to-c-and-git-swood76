@@ -24,6 +24,23 @@
 #define MATH_H_
 
 //Part of your documentation should be listing the valid inputs and outputs for the functions you create.
-int math(int num1, int num2, char Operator);
+int math(int num1, int num2, char Operator); //function prototype of required math Uart calculator function
+
+ /* if scanf was not used; an example of of each operation for each function call would be:
+    math(5, 7, '+');
+    math(5, 7, '-');
+    math(5, 7, '*');
+    math(2, 1, '/');
+    math(2, 1, '%');
+    math(2, 1,  '<');
+    math(2, 1, '>');
+    math(0, 1, '&');
+    math(0, 1, '|');
+    math(0, 1, '^');
+    math(0, 1, '~'); 
+    
+    more examples of valid input and outputs can be found in main.c
+    
+    */
 
 #endif /* MATH_H_ */
