@@ -39,7 +39,7 @@ int math(int num1, int num2, char Operator); //function prototype of required ma
     math(0, 1, '^');
     math(0, 1, '~'); 
     
-    more examples of valid input and outputs can be found in main.c
+    more examples of valid input and outputs can be found in math.c
     
     */
 
