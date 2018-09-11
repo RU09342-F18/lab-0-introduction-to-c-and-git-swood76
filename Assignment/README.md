@@ -4,7 +4,7 @@ This repository contains all necessary files to successfully run a basic UART ca
 
 The repository consists of three files: main.c, math.c, and math.h. Included in the main.c file is the actual implementation of the math function, which is coded in its own file: the math.c file. The math.c file contains and supports the operations listed above that the UART calculator must be able to perform. Included in the header file is the actual prototype of the math function described in math.c and implemented in main.c
 
-Not yet designed to be implemented on any of the MSP launchPad(s).
+Not designed to be implemented on any of the MSP launchPad(s).
 
 ## Getting Started
 
